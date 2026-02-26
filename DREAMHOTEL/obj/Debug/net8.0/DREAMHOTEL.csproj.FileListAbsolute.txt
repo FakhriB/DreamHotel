@@ -257,3 +257,4 @@ C:\Users\FakhriB\source\repos\DREAMHOTEL\DREAMHOTEL\obj\Debug\net8.0\refint\DREA
 C:\Users\FakhriB\source\repos\DREAMHOTEL\DREAMHOTEL\obj\Debug\net8.0\DREAMHOTEL.pdb
 C:\Users\FakhriB\source\repos\DREAMHOTEL\DREAMHOTEL\obj\Debug\net8.0\DREAMHOTEL.genruntimeconfig.cache
 C:\Users\FakhriB\source\repos\DREAMHOTEL\DREAMHOTEL\obj\Debug\net8.0\ref\DREAMHOTEL.dll
+C:\Users\FakhriB\source\repos\DREAMHOTEL\DREAMHOTEL\obj\Debug\net8.0\DREAMHOTEL.sourcelink.json

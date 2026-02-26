@@ -1,16 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\FakhriB\\source\\repos\\DREAMHOTEL\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{054CCF59-A7CB-4A19-B1C4-31E8FFE6BE68}|DREAMHOTEL\\DREAMHOTEL.csproj|c:\\users\\fakhrib\\source\\repos\\dreamhotel\\dreamhotel\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{054CCF59-A7CB-4A19-B1C4-31E8FFE6BE68}|DREAMHOTEL\\DREAMHOTEL.csproj|solutionrelative:dreamhotel\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{054CCF59-A7CB-4A19-B1C4-31E8FFE6BE68}|DREAMHOTEL\\DREAMHOTEL.csproj|c:\\users\\fakhrib\\source\\repos\\dreamhotel\\dreamhotel\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{054CCF59-A7CB-4A19-B1C4-31E8FFE6BE68}|DREAMHOTEL\\DREAMHOTEL.csproj|solutionrelative:dreamhotel\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -18,7 +9,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -35,32 +26,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\FakhriB\\source\\repos\\DREAMHOTEL\\DREAMHOTEL\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "DREAMHOTEL\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\FakhriB\\source\\repos\\DREAMHOTEL\\DREAMHOTEL\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "DREAMHOTEL\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAALAAAAAAAAAAAAAiwLwAAABNAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-02-21T19:21:52.064Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\FakhriB\\source\\repos\\DREAMHOTEL\\DREAMHOTEL\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "DREAMHOTEL\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\FakhriB\\source\\repos\\DREAMHOTEL\\DREAMHOTEL\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "DREAMHOTEL\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-02-21T19:21:49.29Z",
-              "EditorCaption": ""
             }
           ]
         }
